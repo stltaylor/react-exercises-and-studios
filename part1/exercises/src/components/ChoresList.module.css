@@ -1,7 +1,13 @@
 .choresText {
-   color: black;
+   color: orangered;
+   font: italic;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
 }
 
 .choresHeading {
-   color: black;
+   color: seagreen;
+   font-family: 'Courier New', Courier, monospace;
+   text-decoration: underline;
+   font-size: x-large;
 }
