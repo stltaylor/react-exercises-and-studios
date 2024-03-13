@@ -2,8 +2,10 @@ import './styles.css';
 
 function Banner(){
    return(
-      <h1>Hello, World!</h1>
-   );
+      <div className='header'>
+      <h1>The Amazing Ocean</h1>
+      </div>
+   )
 }
 
 export default Banner;
